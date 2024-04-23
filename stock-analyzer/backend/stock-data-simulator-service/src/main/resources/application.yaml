@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: stock-data-simulator-service
+
+server:
+  port: 8081
